@@ -1,0 +1,20 @@
+# Smart Behavioral Video Compression — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core (required to run solution.py)
+opencv-python==4.9.0
+imagehash==4.3.1
+numpy==1.26.4
+Pillow==10.3.0
+
+# Full assignment stack (as specified in assignment brief)
+face_recognition==1.3.0
+mediapipe==0.10.14
+deepface==0.0.93
+mtcnn==0.1.1
+scikit-image==0.22.0
+
+# Note: ffmpeg must be installed separately (not a pip package)
+# Windows:  winget install ffmpeg
+# macOS:    brew install ffmpeg
+# Linux:    sudo apt install ffmpeg
