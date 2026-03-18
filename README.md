@@ -13,9 +13,6 @@ Assignement_Video_compression/
 ├── solution.py                 ← Main compression script (the deliverable)
 ├── requirements.txt            ← Python dependencies
 │
-├── run.sh                      ← One-click runner (Linux / macOS)
-├── run.bat                     ← One-click runner (Windows)
-│
 ├── git_setup.sh                ← Git push workflow (Linux / macOS)
 ├── git_setup.bat               ← Git push workflow (Windows)
 │
@@ -135,9 +132,9 @@ Edit `git_setup.sh` (or `.bat` on Windows) with your details:
 
 ```bash
 GITHUB_USERNAME="your-github-username"
-FIRST_NAME="Arjun"
-LAST_NAME="Sharma"
-ROLL_NUMBER="2301CS14"
+FIRST_NAME="Vikash"
+LAST_NAME="Yadav"
+ROLL_NUMBER="231154"
 ```
 
 Then run:
@@ -147,7 +144,7 @@ bash git_setup.sh      # Linux / macOS
 git_setup.bat          # Windows
 ```
 
-Branch will be named: `Arjun_Sharma_2301CS14`
+Branch will be named: `Vikash_Yadav_231154`
 
 ---
 
